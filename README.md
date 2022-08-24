@@ -8,7 +8,7 @@ As a Data Analytics and Machine Learning Intern it was my task to help John from
 Dataset:[Data_file.xlsx](https://github.com/namdharayush/Ayush-Namdhar-ML-INTERSHIP-TASK-3/blob/main/Data_file.xlsx)
 Data_file is a dataset that i used to train my model.
 
-Test data:[Test_data_file.xlsx](https://github.com/MODIKULDEEP/MODIKULDEEP-ML_INTERNSHIP_TASK_3/files/9179470/Test_data_file.xlsx)
+Test data:[Test_data_file.xlsx](https://github.com/namdharayush/Ayush-Namdhar-ML-INTERSHIP-TASK-3/blob/main/Test_data_file.xlsx)
 Test_Data_file is a dataset that you will use to test your model and find out the Mean Square Value.
 
 You can find the result python notebbok file in the attached files as Salary_Prediction.ipynb
